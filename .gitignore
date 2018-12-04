@@ -1,0 +1,12 @@
+# Config
+*.config
+
+# Packages and modules etc
+*.dll
+*.exe
+
+# Misc
+bin/
+obj/
+Properties/
+*.csproj
